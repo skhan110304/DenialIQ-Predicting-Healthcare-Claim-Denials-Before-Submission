@@ -1,0 +1,7 @@
+denial_category,claim_amount_usd,economic_only,evidence_rule,llm_agent
+coding_error,656.22,prioritize_appeal,request_evidence,request_evidence
+auth_missing,8991.46,prioritize_appeal,request_evidence,request_evidence
+medical_necessity,257.02,do_not_prioritize,request_evidence,do_not_prioritize
+auth_missing,94.31,do_not_prioritize,request_evidence,request_evidence
+medical_necessity,3342.99,prioritize_appeal,request_evidence,request_evidence
+medical_necessity,4205.28,prioritize_appeal,request_evidence,request_evidence
